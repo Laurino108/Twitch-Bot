@@ -1,0 +1,25 @@
+{
+  "name": "modbot",
+  "version": "1.0.0",
+  "description": "Multipurpose Twitch Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "moderation",
+    "modbot"
+  ],
+  "author": "Laurino",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "tmi.js": "^1.8.5"
+  }
+}
